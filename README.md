@@ -22,7 +22,7 @@
 const koech = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node, Styled-Components, Jest, Docker],
+  tools: [React, Node, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                 
